@@ -1,2 +1,4 @@
 # Building_Tools_with_Python
-Building Tools with Python
+
+
+Tools aren't the flashiest, most attention-grabbing type of software. But a great tool—one that successfully automates or enhances a repetitive process—gives valuable time back to your colleagues, allowing them to spend less time clicking buttons and more time on thoughtful projects. Tool development exists in a space between IT support and software engineering, and if you’re tasked with creating tools, there are some important principles to keep in mind. In this course, Scott Simpson discusses designing for end users, craftsmanship, and trust as they relate to building small software utilities. He surveys concepts related to tool development, and uses Python to explore ideas that you’ll want to keep in mind when developing tools for your users.
